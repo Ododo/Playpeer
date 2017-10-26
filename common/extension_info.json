@@ -1,0 +1,17 @@
+{
+    "name": "PlayPeer (alpha)",
+    "version": "1",
+    "description": "PlayPeer",
+    "creator": "Olivier Dautricourt",
+    "background_scripts": ["main.js", "firebase.js"],
+    "browser_button": {
+        "tooltipText": "PlayPeer (alpha)",
+        "caption": "PlayPeer (alpha)",
+        "icon": "icons/button.png",
+        "popup": {
+            "url": "popup.html",
+            "width": 600,
+            "height": 520
+        }
+    }
+}
