@@ -1,4 +1,8 @@
-# playpeer.net
-playpeers.net's frontend (draft state)
+# addons.mozilla.org/firefox/addon/playpeer/
+    
+PlayPeers's issue tracker
+
+
+
 
 
